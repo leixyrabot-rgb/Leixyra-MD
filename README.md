@@ -35,7 +35,7 @@ Bot MultiDispositivo para WhatsApp con IA, descargas y automatización.
 ```bash
 pkg update && pkg upgrade
 pkg install git nodejs ffmpeg imagemagick
-git clone https://github.com/AlyaKujou-MD/AlyaKujou-MD
-cd AlyaKujou-MD
+git clone https://github.com/leixyrabot-rgb/Leixyra-MD
+cd Leixyra-MD
 npm install
 node index.js
